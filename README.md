@@ -1,7 +1,7 @@
 <h1 align="center">Swami Prem Pranav Kayashyap</h1>
 
 <p align="center">
-  <strong>Payment Systems Engineer | Cards & Payments Domain Specialist</strong>
+  <strong> Cards & Payments Domain Specialist | Sr. Tech Lead @ Opus Technology</strong>
 </p>
 
 <p align="center">
@@ -27,17 +27,19 @@ Seasoned engineering professional with **14+ years of experience** in the Bankin
 
 <table width="100%">
   <tr>
-    <td width="48%" valign="top">
+    <td width="60%" valign="top">
       <h4>🏛️ Domain & Technical Competencies</h4>
       <p>
-        • <b>Switch & Platforms:</b> BASE24-eps, HPE NonStop (Tandem), Unix<br/>
-        • <b>Payment Specs:</b> ISO8583 (87/93), EMV, ATM/POS Handlers<br/>
-        • <b>Security:</b> HSM Integration, Key Management, PIN Security<br/>
-        • <b>Simulators:</b> Paragon, VTS, MAS, MDS, FinSim, ASSET, jPOS<br/>
-        • <b>Core Languages:</b> C++, Java, Python, PHP, High-Volume SQL
-      </p>
+        <ul>
+        <li><b>Switch & Platforms:</b> BASE24-eps, HPE NonStop (Tandem), Unix</li>
+        <li><b>Payment Specs:</b> ISO8583 (87/93), EMV, ATM/POS Handlers</li>
+        <li><b>Security:</b> Thales & Atalla HSM, Key Management, PIN Security</li>
+        <li><b>Simulators:</b> ASSET, jPOS, VTS, MAS, MDS, FinSim</li>
+        <li><b>Core Languages:</b> C++, Java, Python, PHP, SQL</li>
+        </ul>
+        </p>
     </td>
-    <td width="52%" valign="top">
+    <td width="40%" valign="top">
       <h4>📊 Domain Proficiency</h4>
       <table>
         <tr>
